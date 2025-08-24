@@ -1,7 +1,7 @@
 # Day 41 – Advanced Boxplots in Seaborn
 
 ##  Topics Covered   
-- Horizontal boxplots
+- Horizontal boxplots 
 - Overlaying swarmplot with boxplot  
 - Grouped boxplots using `hue` 
 - Customizing boxplots (linewidth, width, dodge, palette)
