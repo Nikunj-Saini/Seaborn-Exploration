@@ -2,7 +2,7 @@
 
 ##  Topics Covered   
 - Horizontal boxplots
-- Overlaying swarmplot with boxplot 
+- Overlaying swarmplot with boxplot  
 - Grouped boxplots using `hue`
 - Customizing boxplots (linewidth, width, dodge, palette)
 
