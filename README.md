@@ -1,4 +1,4 @@
-# Seaborn Data Visualization Journey 🎨📊
+# Seaborn Data Visualization Journey
 
 This repository documents my step-by-step learning of **Seaborn**, a Python library built on Matplotlib that simplifies and enhances data visualization.  
 It contains daily notebooks, examples, mini-projects, and insights gained during the journey.
