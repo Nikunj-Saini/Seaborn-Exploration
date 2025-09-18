@@ -12,7 +12,7 @@
 
 ##  Practice Work
 - FacetGrid histogram of total_bill split by sex
-- catplot violinplot of tip by day split by smoker
+- catplot violinplot of tip by day split by smoker 
 - relplot scatterplot of bill dimensions by species split by sex
 - Comparison of FacetGrid vs catplot vs relplot outputs
 
