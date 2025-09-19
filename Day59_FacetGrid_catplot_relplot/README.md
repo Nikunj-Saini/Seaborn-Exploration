@@ -9,7 +9,7 @@
 ##  Datasets Used 
 - Tips
 - Penguins
-
+ 
 ##  Practice Work
 - FacetGrid histogram of total_bill split by sex
 - catplot violinplot of tip by day split by smoker 
