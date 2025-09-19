@@ -6,7 +6,7 @@
 - Using hue, row, and col for splitting data
 - Comparing FacetGrid vs catplot vs relplot
 
-##  Datasets Used
+##  Datasets Used 
 - Tips
 - Penguins
 
