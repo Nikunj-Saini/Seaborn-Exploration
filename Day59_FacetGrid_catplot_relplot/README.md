@@ -7,7 +7,7 @@
 - Comparing FacetGrid vs catplot vs relplot
 
 ##  Datasets Used 
-- Tips
+- Tips 
 - Penguins
  
 ##  Practice Work
