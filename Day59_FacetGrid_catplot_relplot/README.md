@@ -5,7 +5,7 @@
 - High-level wrappers catplot (categorical) and relplot (relational)
 - Using hue, row, and col for splitting data
 - Comparing FacetGrid vs catplot vs relplot
-
+ 
 ##  Datasets Used 
 - Tips 
 - Penguins
