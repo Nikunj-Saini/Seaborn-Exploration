@@ -1,6 +1,6 @@
 # Day 59 – Seaborn: FacetGrid, catplot, and relplot
 
-##  Topics Covered
+##  Topics Covered 
 - Creating multiple small plots using FacetGrid
 - High-level wrappers catplot (categorical) and relplot (relational)
 - Using hue, row, and col for splitting data
