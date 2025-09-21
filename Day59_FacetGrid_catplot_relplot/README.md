@@ -3,7 +3,7 @@
 ##  Topics Covered 
 - Creating multiple small plots using FacetGrid
 - High-level wrappers catplot (categorical) and relplot (relational)
-- Using hue, row, and col for splitting data
+- Using hue, row, and col for splitting data 
 - Comparing FacetGrid vs catplot vs relplot
  
 ##  Datasets Used 
