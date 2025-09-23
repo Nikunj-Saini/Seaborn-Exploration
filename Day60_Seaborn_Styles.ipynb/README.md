@@ -10,6 +10,6 @@ Learn how to make Seaborn plots visually appealing and consistent using styles, 
 - Resetting to default styles
 
 ## Files
-- **Day60_Seaborn_Styles.ipynb** – Jupyter Notebook with code examples
+- **Day60_Seaborn_Styles.ipynb** – Jupyter Notebook with code examples 
 - **Day60_Seaborn_Styles.html** – HTML version
 
